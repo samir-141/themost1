@@ -250,11 +250,15 @@ footer .redes a
 {
     border: 1px solid gray;
 }
+#servicios .bloque-servicio .bloque-img-servicio
+{
+    width: 100%;
+}
 #servicios .bloque-servicio .bloque-img-servicio img
 {
     width: 100%;
 }
-#servicios .bloque-servicio .bloque-img-servicio.cuadrado-perfecto
+#servicios .bloque-servicio .bloque-img-servicio
 {
     padding-bottom: 56.25%;
 }
